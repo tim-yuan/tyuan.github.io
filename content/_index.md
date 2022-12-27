@@ -24,7 +24,8 @@ sections:
 
         **The University of Manchester**
 
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
+        Chemical Engineering graduate student interested in thermodynamics, statistical mechanics, and molecular simulations. 
+
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
@@ -262,8 +263,8 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
+#        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+#      # Contact (add or remove contact options as necessary)
       email: tianmu.yuan@manchester.ac.uk
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
@@ -278,11 +279,11 @@ sections:
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+#      contact_links:
+#        - icon: twitter
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://twitter.com/Twitter'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me

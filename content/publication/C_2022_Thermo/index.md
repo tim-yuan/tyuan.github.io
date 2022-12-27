@@ -46,8 +46,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: Application of dynamic mean field theory to study fluid transport in membranes
-  
+summary:  Lattice model of fluid transport in mixed matrix membranes 
   
   
 
